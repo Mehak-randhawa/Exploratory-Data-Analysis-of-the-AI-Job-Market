@@ -84,7 +84,7 @@ These observations were made early on and guided the deeper analysis done later 
 ---
 ## 📈 Dashboard Insights
 The dashboard enables dynamic filtering, allowing users to view multiple insights tailored to the selected filters, offering a flexible and interactive exploration experience.
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](job_dashboard.png)
 
 
 
